@@ -70,17 +70,6 @@ Let's keep track of our Restful Routes as we build out our app.
 
 <br>
 
-## Bonuses
-1. The captain wants to keep track of eating habits: make a new set of routes in a new file in your controller folder called foodlogs
-  1. build out the 5 restful routes for foodlogs, include a new model with whatever properties make sense
-1. make a seed file and seed it
-1. have your update route redirect to the show page of the log that was edited
-1. create a seed file and seed your database
-1. if you have timestamps, figure out how to edit/display the edited date
-
-## Super Bonus
-
-Create a React front end and comsume a few of these endpoints!
 
 ---
 
