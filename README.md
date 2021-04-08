@@ -26,10 +26,7 @@ There are many ways to get started building an app. This lab follows a specific 
  - to align with the content of lecture
  - to give you an order to guide you to create small bits of functionality and test each one before moving on to the next part
 
-If you finish lab early consider:
-
-  - try working through the next section of the lab before it is covered in lecture - see what you can figure out
-  - **SUPER BONUS** - Once you finish this whole lab, add a second model for comments, it should have the name of the person who wrote it, and some text for the comment (maybe time stamps?). This model should 'belong' to the post, the data should be related in some way. Do you own research of how to set up a `one-to-many` relationship (one post can have many comments, one comment only belongs to one post), in MongoDB. Use Mongo Documents, Google. 
+ 
 
 ### Set up
 
