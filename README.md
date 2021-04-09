@@ -67,7 +67,7 @@ Let's keep track of our Restful Routes as we build out our app.
 
 <br>
 
-
+## Before yiu push your repo make sure to `touch .gitignore` and add `/node_modules` in it.
 ---
 
 *Copyright 2019, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
